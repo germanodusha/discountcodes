@@ -1,3 +1,8 @@
+@font-face {
+  font-family: AkzidenzGrotesk;
+  src: url("AkzidenzGrotesk-BoldExtendedItalic.otf") format("opentype");
+}
+
 html {
   height: 100%;
 }
@@ -13,6 +18,9 @@ body {
 a {
   color: black;
   text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 .menu a {
   display: block;
