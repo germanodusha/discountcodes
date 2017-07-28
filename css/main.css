@@ -14,6 +14,7 @@ body {
   height: 100%;
   margin: 0;
   flex-direction: column;
+  font-family: AkzidenzGrotesk;
 }
 a {
   color: black;
